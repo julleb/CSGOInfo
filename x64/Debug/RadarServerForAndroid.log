@@ -1,0 +1,38 @@
+﻿  Server.cpp
+c:\users\jb\desktop\programmering\radarserverforandroid\radarserverforandroid\connectionhandler.h(4): fatal error C1083: Cannot open include file: 'boost/asio.hpp': No such file or directory
+  PlayersJson.cpp
+  PlayerHandler.cpp
+c:\users\jb\desktop\programmering\radarserverforandroid\radarserverforandroid\playerhandler.cpp(29): warning C4312: 'type cast': conversion from 'unsigned long' to 'PBYTE *' of greater size
+c:\users\jb\desktop\programmering\radarserverforandroid\radarserverforandroid\playerhandler.cpp(30): warning C4312: 'type cast': conversion from 'unsigned long' to 'PBYTE *' of greater size
+c:\users\jb\desktop\programmering\radarserverforandroid\radarserverforandroid\playerhandler.cpp(31): warning C4312: 'type cast': conversion from 'unsigned long' to 'PBYTE *' of greater size
+c:\users\jb\desktop\programmering\radarserverforandroid\radarserverforandroid\playerhandler.cpp(32): warning C4312: 'type cast': conversion from 'unsigned long' to 'PBYTE *' of greater size
+c:\users\jb\desktop\programmering\radarserverforandroid\radarserverforandroid\playerhandler.cpp(33): warning C4312: 'type cast': conversion from 'unsigned long' to 'PBYTE *' of greater size
+c:\users\jb\desktop\programmering\radarserverforandroid\radarserverforandroid\playerhandler.cpp(42): warning C4312: 'type cast': conversion from 'unsigned long' to 'PBYTE *' of greater size
+c:\users\jb\desktop\programmering\radarserverforandroid\radarserverforandroid\playerhandler.cpp(43): warning C4312: 'type cast': conversion from 'unsigned long' to 'PBYTE *' of greater size
+c:\users\jb\desktop\programmering\radarserverforandroid\radarserverforandroid\playerhandler.cpp(44): warning C4312: 'type cast': conversion from 'unsigned long' to 'PBYTE *' of greater size
+c:\users\jb\desktop\programmering\radarserverforandroid\radarserverforandroid\playerhandler.cpp(45): warning C4312: 'type cast': conversion from 'unsigned long' to 'PBYTE *' of greater size
+c:\users\jb\desktop\programmering\radarserverforandroid\radarserverforandroid\playerhandler.cpp(46): warning C4312: 'type cast': conversion from 'unsigned long' to 'PBYTE *' of greater size
+  PlayerExtractorMock.cpp
+c:\users\jb\desktop\programmering\radarserverforandroid\radarserverforandroid\playerextractormock.cpp(15): warning C4930: 'EntityPlayer entityPlayer(void)': prototyped function not called (was a variable definition intended?)
+  PlayerExtractorImpl.cpp
+  Player.cpp
+  MessageHandler.cpp
+c:\users\jb\desktop\programmering\radarserverforandroid\radarserverforandroid\client.h(3): fatal error C1083: Cannot open include file: 'boost/asio.hpp': No such file or directory
+  main.cpp
+c:\users\jb\desktop\programmering\radarserverforandroid\radarserverforandroid\connectionhandler.h(4): fatal error C1083: Cannot open include file: 'boost/asio.hpp': No such file or directory
+  LocalPlayer.cpp
+  GameHandler.cpp
+c:\users\jb\desktop\programmering\radarserverforandroid\radarserverforandroid\gamehandler.cpp(12): error C2664: 'int strcmp(const char *,const char *)': cannot convert argument 1 from 'WCHAR [256]' to 'const char *'
+  c:\users\jb\desktop\programmering\radarserverforandroid\radarserverforandroid\gamehandler.cpp(12): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+c:\users\jb\desktop\programmering\radarserverforandroid\radarserverforandroid\gamehandler.cpp(13): warning C4311: 'type cast': pointer truncation from 'BYTE *' to 'DWORD'
+c:\users\jb\desktop\programmering\radarserverforandroid\radarserverforandroid\gamehandler.cpp(13): warning C4302: 'type cast': truncation from 'BYTE *' to 'DWORD'
+c:\users\jb\desktop\programmering\radarserverforandroid\radarserverforandroid\gamehandler.cpp(25): error C2664: 'HWND FindWindowW(LPCWSTR,LPCWSTR)': cannot convert argument 2 from 'char *' to 'LPCWSTR'
+  c:\users\jb\desktop\programmering\radarserverforandroid\radarserverforandroid\gamehandler.cpp(25): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+c:\users\jb\desktop\programmering\radarserverforandroid\radarserverforandroid\gamehandler.cpp(34): error C2664: 'DWORD GameHandler::getDllAdress(TCHAR *)': cannot convert argument 1 from 'const char [11]' to 'TCHAR *'
+  c:\users\jb\desktop\programmering\radarserverforandroid\radarserverforandroid\gamehandler.cpp(34): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+  EntityPlayer.cpp
+  ConnectionHandler.cpp
+c:\users\jb\desktop\programmering\radarserverforandroid\radarserverforandroid\connectionhandler.h(4): fatal error C1083: Cannot open include file: 'boost/asio.hpp': No such file or directory
+  Client.cpp
+c:\users\jb\desktop\programmering\radarserverforandroid\radarserverforandroid\client.h(3): fatal error C1083: Cannot open include file: 'boost/asio.hpp': No such file or directory
+  Generating Code...
